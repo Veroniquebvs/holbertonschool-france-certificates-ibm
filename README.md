@@ -4,7 +4,7 @@ This repository centralizes all the professional certifications I earned during 
 
 ---
 
-## 📅 Roadmap & Achievements
+## Roadmap & Achievements
 
 | Timeline | Certification | Issuer | Key Topics |
 | :--- | :--- | :--- | :--- |
@@ -17,7 +17,7 @@ This repository centralizes all the professional certifications I earned during 
 
 ---
 
-## 🛠️ Validated Skills
+## Validated Skills
 
 Through this certification path, I have developed a well-rounded and versatile skill set essential for modern tech projects:
 
